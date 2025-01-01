@@ -31,7 +31,7 @@ const Pricing = () => {
                         <Features color="#F1F1F3" text="Access to exclusive Pro Plan community forums." src="/image-11.png" />
                         <Features color="#F1F1F3" text="Early access to new courses and updates." src="/image-11.png" />
                     </div>
-                    <Link to={'/'}></Link><button className="w-full bg-[#FF9500] text-white py-3 rounded-b-lg font-semibold hover:bg-[#e38602]">Get Started</button>
+                    <Link to={'/pricing'}><button className="w-full bg-[#FF9500] text-white py-3 rounded-b-lg font-semibold hover:bg-[#e38602]">Get Started</button></Link>
                 </div>
 
             </motion.div>
@@ -60,7 +60,7 @@ const Pricing = () => {
                         <Features color="#FFF4E5" text="Access to exclusive Pro Plan community forums." src="/image-10.png" />
                         <Features color="#FFF4E5" text="Early access to new courses and updates." src="/image-10.png" />
                     </div>
-                    <Link to={'/'}></Link><button className="w-full bg-[#FF9500] text-white py-3 rounded-b-lg font-semibold hover:bg-[#e38602]">Get Started</button>
+                    <Link to={'/pricing'}><button className="w-full bg-[#FF9500] text-white py-3 rounded-b-lg font-semibold hover:bg-[#e38602]">Get Started</button></Link>
                 </div>
 
             </motion.div>
