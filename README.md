@@ -1,11 +1,11 @@
 
 ---
 
-## Online Courses Platform (Figma to React Conversion)**  
+## Online Courses Platform (Figma to React Conversion)
 
 ## 🛠 Live Url
 
-[https://tipmeatreat.vercel.app](https://skillbridge-by-het.vercel.app/)
+https://skillbridge-by-het.vercel.app
 
 # 📚 Online Courses Platform  
 
